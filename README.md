@@ -1,4 +1,4 @@
-,# ACD - MD - V1 ( MULTI DEVICE WHATSAPP BOT ) 🍄
+,# TL9 - MD - V1 ( MULTI DEVICE WHATSAPP BOT ) 🍄
 24 HOURS STATUS AUTO SEEN MULTI DEVICE WA BOT ✅
 ***
 </p> <p align="center">
@@ -8,7 +8,7 @@
 
   <p align="center">
 <a href="https://github.com/ACD-MD-TEAM/ACD-MD-TESTING/new/main">
-    <img src="https://i.ibb.co/ThLhsQq/IMG-20241128-WA0173-1.jpg"  width="700px">
+    <img src="https://img101.pixhost.to/images/496/554321573_vanzzhoat.jpg"  width="700px">
 </a>
 
 <hr>
@@ -18,13 +18,13 @@
  
 <p align="center">
 
-  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029Vay0BqOCXC3EwTtXuF2F" target="_blank">
+  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VawLYDoCHDynDTzVj72L" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
   </a>
 
 <p align="center">
 
-  <a aria-label="WhatsApp Supported Channel" href="https://chat.whatsapp.com/Dj4MT92HvJi8yRMcF9B2z2" target="_blank">
+  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VawLYDoCHDynDTzVj72L" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
